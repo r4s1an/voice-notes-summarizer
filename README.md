@@ -1,8 +1,8 @@
 # Voice Notes Summarizer
 
-![Summarization Eval](https://github.com/r4s1an/voice-notes-summarizer/actions/workflows/eval.yml/badge.svg)
-
 A local speech-to-text + AI summarization tool. Upload an audio file, get a transcript and structured summary with action items — all from your own machine.
+
+![Demo screenshot](docs/demo.png)
 
 ---
 
