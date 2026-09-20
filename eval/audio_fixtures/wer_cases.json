@@ -1,0 +1,14 @@
+[
+  {
+    "audio": "eval/audio_fixtures/001.m4a",
+    "ground_truth": "Okay team, quick recap of today's meeting. First, Sarah will finish the API documentation by Wednesday. Second, we need to fix the login bug before the next release. That's a priority. Third, I will schedule a call with the client to discuss the new pricing plan. Let's also remember to update the project timeline in the shared doc. Any questions? Send them to me by end of today."
+  },
+  {
+    "audio": "eval/audio_fixtures/002.m4a",
+    "ground_truth": "Quick note to myself. I need to pay the electricity bill before Friday or there will be a late fee. Also, I promised my sister I'd send her the photos from last weekend. Don't forget to renew the gym membership, it expires on the 25th. Oh, and I need to call the dentist to reschedule my appointment."
+  },
+  {
+    "audio": "eval/audio_fixtures/003.m4a",
+    "ground_truth": "Hi everyone, just a quick project status update. The backend API is 80% complete. We're blocked on the payment integration because we're still waiting for credentials from the finance team. The frontend team has finished the dashboard but needs final design approval from marketing before we can ship. We're currently on track to hit the October 1st deadline if the blockers are resolved this week."
+  }
+]

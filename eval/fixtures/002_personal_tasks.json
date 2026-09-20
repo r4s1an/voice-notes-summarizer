@@ -1,0 +1,12 @@
+{
+  "id": "002",
+  "description": "Personal daily task note",
+  "transcript": "Quick note to myself. I need to pay the electricity bill before Friday or there will be a late fee. Also, I promised my sister I'd send her the photos from last weekend. Don't forget to renew the gym membership, it expires on the 25th. Oh, and I need to call the dentist to reschedule my appointment.",
+  "ideal_summary": "A personal reminder covering four time-sensitive tasks: paying the electricity bill before Friday, sending photos to a sister, renewing a gym membership before the 25th, and rescheduling a dentist appointment.",
+  "ideal_action_items": [
+    "Pay electricity bill before Friday",
+    "Send photos to sister",
+    "Renew gym membership before the 25th",
+    "Call dentist to reschedule appointment"
+  ]
+}

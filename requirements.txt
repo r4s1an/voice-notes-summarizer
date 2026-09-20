@@ -1,0 +1,9 @@
+faster-whisper
+groq
+fastapi
+uvicorn[standard]
+streamlit
+pydub
+python-dotenv
+python-multipart
+requests

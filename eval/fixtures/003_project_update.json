@@ -1,0 +1,11 @@
+{
+  "id": "003",
+  "description": "Project status update for stakeholders",
+  "transcript": "Hi everyone, just a quick project status update. The backend API is 80% complete. We're blocked on the payment integration because we're still waiting for credentials from the finance team. The frontend team has finished the dashboard but needs final design approval from marketing before we can ship. We're currently on track to hit the October 1st deadline if the blockers are resolved this week.",
+  "ideal_summary": "The backend API is 80% complete, but the payment integration is blocked pending credentials from the finance team. The frontend dashboard is ready but awaiting marketing's design approval. The October 1st deadline is achievable if both blockers are resolved this week.",
+  "ideal_action_items": [
+    "Finance team to provide payment integration credentials",
+    "Marketing to give final design approval on the dashboard",
+    "Resolve blockers this week to meet October 1st deadline"
+  ]
+}

@@ -1,0 +1,3 @@
+# Install runtime deps first: pip install -r requirements.txt
+-r requirements.txt
+jiwer

@@ -1,0 +1,13 @@
+{
+  "id": "001",
+  "description": "Team standup recap",
+  "transcript": "Okay team, quick recap of today's meeting. First, Sarah will finish the API documentation by Wednesday. Second, we need to fix the login bug before the next release. That's a priority. Third, I will schedule a call with the client to discuss the new pricing plan. Let's also remember to update the project timeline in the shared doc. Any questions? Send them to me by end of today.",
+  "ideal_summary": "The team discussed key priorities: Sarah will complete API docs by Wednesday, the login bug must be fixed before the next release, and a client call will be scheduled about the new pricing plan. The project timeline also needs updating, and questions should be sent to the speaker by end of day.",
+  "ideal_action_items": [
+    "Sarah to finish API documentation by Wednesday",
+    "Fix the login bug before the next release",
+    "Schedule a client call to discuss the new pricing plan",
+    "Update the project timeline in the shared doc",
+    "Send questions to speaker by end of today"
+  ]
+}
